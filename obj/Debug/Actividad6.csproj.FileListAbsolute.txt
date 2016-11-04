@@ -1,0 +1,13 @@
+c:\users\juansilva\documents\visual studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Actividad6.exe.config
+c:\users\juansilva\documents\visual studio 2015\Projects\Actividad6\Actividad6\obj\Debug\Actividad6.csprojResolveAssemblyReference.cache
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\obj\Debug\Actividad6.csproj.App.config
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Actividad6.exe
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Actividad6.pdb
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Newtonsoft.Json.dll
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\System.Net.Http.Extensions.dll
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\System.Net.Http.Primitives.dll
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Newtonsoft.Json.xml
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\System.Net.Http.Extensions.xml
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\bin\Debug\System.Net.Http.Primitives.xml
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\obj\Debug\Actividad6.exe
+c:\Users\JuanSilva\Documents\Visual Studio 2015\Projects\Actividad6\Actividad6\obj\Debug\Actividad6.pdb
